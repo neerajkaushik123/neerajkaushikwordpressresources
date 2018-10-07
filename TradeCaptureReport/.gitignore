@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ClientApp/ClientApp/bin/Debug
+/ClientApp/ClientApp/obj
+/ClientApp/.vs/TradingClientApp/v15
